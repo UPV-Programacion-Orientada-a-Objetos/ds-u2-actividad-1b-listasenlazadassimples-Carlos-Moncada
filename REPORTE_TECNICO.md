@@ -3,9 +3,9 @@
 
 ---
 
-**Institución:** [Tu Universidad]  
-**Materia:** Programación Orientada a Objetos Avanzada  
-**Alumno:** [Tu Nombre]  
+**Institución:** [Universidad Politecnica de Vicotria]  
+**Materia:** Estrutura de datos  
+**Alumno:** [Carlos Guillermo Moncada Ortiz]  
 **Fecha:** Octubre 30, 2025  
 **Versión:** 3.0
 
